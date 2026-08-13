@@ -7,7 +7,7 @@ CSE-AI Undergraduate&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Java & DSA
 <p align="left">
   <a href="https://www.linkedin.com/in/varadsonawane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:varadsonawane1526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://civicsetu.vercel.app"><img src="https://img.shields.io/badge/CivicSetu-Live-brightgreen?style=flat" alt="CivicSetu Live"/></a>
+  <!-- <a href="https://civicsetu.vercel.app"><img src="https://img.shields.io/badge/CivicSetu-Live-brightgreen?style=flat" alt="CivicSetu Live"/></a> -->
 </p>
 
 I'm a Computer Science & Engineering (AI) undergraduate at **NMIET, Talegaon**, affiliated with **Savitribai Phule Pune University (SPPU)**, graduating in **2028**. I build full-stack web applications, focus on strong CS fundamentals, and I'm actively strengthening my Data Structures & Algorithms with Java. My team's project, **CivicSetu**, was selected for the **National Round of Smart India Hackathon (SIH)**, and I've worked as a Web Development Intern for **Tap Podcast** (~50K subscribers).
@@ -62,8 +62,6 @@ Interactive website for a podcast with approximately 50K subscribers, built with
 **[Habit Tracker](https://github.com/varadsonawane1526/habit-tracker)**
 A personal productivity and habit-tracking application.
 
-**[Portfolio](https://github.com/varadsonawane1526/Varad-Sonawane---Portfolio)**
-My personal developer portfolio.
 
 ---
 
@@ -101,7 +99,7 @@ Currently building consistency in Java and Data Structures & Algorithms.
 ### 📜 Certifications
 
 **The Complete Full-Stack Web Development Bootcamp** — Udemy
-Instructor: Dr. Angela Yu · 62 total hours · Completed August 13, 2026
+Instructor: Dr. Angela Yu · 62 total hours 
 
 ---
 
