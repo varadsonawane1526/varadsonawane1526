@@ -6,7 +6,7 @@ CSE-AI Undergraduate&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Java & DSA
 
 <p align="left">
   <a href="https://www.linkedin.com/in/varadsonawane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:varadsonawane1526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="varadsonawane1526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- <a href="https://civicsetu.vercel.app"><img src="https://img.shields.io/badge/CivicSetu-Live-brightgreen?style=flat" alt="CivicSetu Live"/></a> -->
 </p>
 
