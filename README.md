@@ -187,7 +187,7 @@ Gesture-controlled drawing system.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomakepratik58&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadsonawane1526&theme=github_dark"/>
 
 </div>
 
@@ -203,17 +203,18 @@ Research → Prototype → Product → Impact
 
 ---
 
+
 # 🤝 Let's Connect
 
 <div align="center">
 
-📧 [thomakepratik58@gmail.com](mailto:thomakepratik58@gmail.com)
+📧 [varadsonawane1526@gmail.com](mailto:varadsonawane1526@gmail.com)
 
-🌐 https://pratikthomake.netlify.app
+🌐 https://varadsonawane-portfolio.vercel.app
 
-💼 https://linkedin.com/in/pratik-thomake
+💼 https://linkedin.com/in/varadsonawane
 
-🐙 https://github.com/thomakepratik58
+🐙 https://github.com/varadsonawane1526
 
 </div>
 
