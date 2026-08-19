@@ -24,8 +24,6 @@
 
 <br><br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=varadsonawane1526&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
-
 </div>
 
 ---
@@ -141,35 +139,9 @@ A web development and digital solutions agency focused on building modern websit
 </tr>
 </table>
 
----
-
-
-# # 🧠 Tech Arsenal
-
-# <div align="center">
-
-# ### Languages
-
-# <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql&perline=5"/>
-
-# ### Backend
-
-# <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4"/>
-
-
-# ### Databases
-
-# <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
-
-# ### Cloud & DevOps
-
-# <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&perline=5"/>
-
-# </div>
-
 # ---
 
-# 📊 GitHub Analytics
+ 📊 GitHub Analytics
 
 <div align="center">
 
