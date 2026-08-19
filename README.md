@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Full+Stack+Web+Applications;Java+DSA+Enthusiast;Exploring+AI%2FML;Building+Real-World+Projects;Hackathon+Builder;Turning+Ideas+Into+Impact" />
 
-<br><br>
-
-</div>
+<br>
 <a href="mailto:varadsonawane1526@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
