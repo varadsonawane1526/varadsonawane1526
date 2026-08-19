@@ -1,11 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Varad%20Sonawane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE-AI%20Engineer%20•%20Full Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Varad%20Sonawane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE-AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Full+stack+Web+Application;Java+DSA+Enthusiast;Turning+Ideas+Into+Real+Products;Hackathon+Builder;Turning+Ideas+Into+Real+Products;Turning+Ideas+Into+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Full+Stack+Web+Applications;Java+DSA+Enthusiast;Exploring+AI%2FML;Building+Real-World+Projects;Hackathon+Builder;Turning+Ideas+Into+Impact" />
 
-<br>
+<br><br>
 
+</div>
 <a href="mailto:varadsonawane1526@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
