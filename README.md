@@ -59,66 +59,81 @@ Open To:
 ```
 
 ---
-
 # 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌾 AgriSmart
+### 🎙️ Tap Podcast
 
-AI-powered agriculture assistance platform.
+A modern podcast website built for a podcast channel with 50K+ subscribers.
 
 **Highlights**
 
-* Crop disease detection
-* Yield prediction
-* IoT integration
-* FastAPI backend
+* Responsive modern UI
+* GSAP animations
+* Interactive user experience
+* DOM manipulation
+* HTML, CSS & JavaScript
+
+**[🌐 Live Demo](https://tappodcast.com)**
 
 </td>
 
 <td width="50%">
 
-### 🩺 MedSense AI
+### 🏛️ CivicSetu
 
-AI healthcare prediction platform.
+A civic-tech platform developed for Smart India Hackathon to address real-world civic challenges.
 
 **Highlights**
 
-* 130-feature ML pipeline
-* Random Forest engine
-* Doctor Finder
-* Full-stack deployment
+* Selected for the national SIH round
+* Full-stack web application
+* Civic problem-solving platform
+* Team Caffeine Coders
+* Built for real-world impact
+
+**[🌐 Live Demo](https://civicsetu.vercel.app)**
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
-### 📈 SmartVision AI
+### 📊 TrackFlow
 
-Production-grade ML monitoring platform.
+A productivity and habit-tracking platform designed to help users track goals, habits and daily progress.
 
-* Drift detection
-* Model monitoring
-* Streamlit dashboard
-* FastAPI services
+**Highlights**
+
+* Interactive habit tracking
+* Progress analytics
+* Data visualization
+* Persistent progress tracking
+* Modern responsive interface
+
+**[🌐 Live Demo](https://trackflow-vrd.vercel.app)**
 
 </td>
 
-<td>
+<td width="50%">
 
-### 🎨 AirCanvas
+### 💻 BitBulb
 
-Gesture-controlled drawing system.
+A web development and digital solutions agency focused on building modern websites and digital experiences for businesses.
 
-* OpenCV
-* MediaPipe
-* Real-time hand tracking
-* Computer Vision
+**Highlights**
+
+* Web development
+* UI/UX design
+* Business websites
+* Modern responsive interfaces
+* Digital solutions
+
+**[🌐 Visit Website](https://bitbulb.tech)**
 
 </td>
 </tr>
