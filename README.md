@@ -56,102 +56,128 @@ Open To:
   - Software Engineering Internships
   - AI/ML Internships
   - Full Stack Opportunities
-  - Hackathons & Collaborations```
+  - Hackathons & Collaborations
+```
 
 ---
+
+# 🏆 Achievement Matrix
+
+<div align="center">
+
+| 📄 Research           | 🥈 Hackathon         | 👨‍💻 Leadership             | 🚀 Deployment            |
+| --------------------- | -------------------- | ---------------------------- | ------------------------ |
+| IEEE Published Author | AgriThon 2026 Winner | Technical Lead @ MahaSangram | 5+ Deployed Applications |
+
+</div>
+
+---
+
 # 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎙️ Tap Podcast
+### 🌾 AgriSmart
 
-A modern podcast website built for a podcast channel with 50K+ subscribers.
+AI-powered agriculture assistance platform.
 
 **Highlights**
 
-* Responsive modern UI
-* GSAP animations
-* Interactive user experience
-* DOM manipulation
-* HTML, CSS & JavaScript
-
-**[🌐 Live Demo](https://tappodcast.com)**
+* Crop disease detection
+* Yield prediction
+* IoT integration
+* FastAPI backend
 
 </td>
 
 <td width="50%">
 
-### 🏛️ CivicSetu
+### 🩺 MedSense AI
 
-A civic-tech platform developed for Smart India Hackathon to address real-world civic challenges.
+AI healthcare prediction platform.
 
 **Highlights**
 
-* Selected for the national SIH round
-* Full-stack web application
-* Civic problem-solving platform
-* Team Caffeine Coders
-* Built for real-world impact
-
-**[🌐 Live Demo](https://civicsetu.vercel.app)**
+* 130-feature ML pipeline
+* Random Forest engine
+* Doctor Finder
+* Full-stack deployment
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
-### 📊 TrackFlow
+### 📈 SmartVision AI
 
-A productivity and habit-tracking platform designed to help users track goals, habits and daily progress.
+Production-grade ML monitoring platform.
 
-**Highlights**
-
-* Interactive habit tracking
-* Progress analytics
-* Data visualization
-* Persistent progress tracking
-* Modern responsive interface
-
-**[🌐 Live Demo](https://trackflow-vrd.vercel.app)**
+* Drift detection
+* Model monitoring
+* Streamlit dashboard
+* FastAPI services
 
 </td>
 
-<td width="50%">
+<td>
 
-### 💻 BitBulb
+### 🎨 AirCanvas
 
-A web development and digital solutions agency focused on building modern websites and digital experiences for businesses.
+Gesture-controlled drawing system.
 
-**Highlights**
-
-* Web development
-* UI/UX design
-* Business websites
-* Modern responsive interfaces
-* Digital solutions
-
-**[🌐 Visit Website](https://bitbulb.tech)**
+* OpenCV
+* MediaPipe
+* Real-time hand tracking
+* Computer Vision
 
 </td>
 </tr>
 </table>
 
-# ---
+---
 
- 📊 GitHub Analytics
+# 🧠 Tech Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varadsonawane1526&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadsonawane1526&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql&perline=5"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=1"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&perline=5"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thomakepratik58&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomakepratik58&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varadsonawane1526&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomakepratik58&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -161,7 +187,7 @@ A web development and digital solutions agency focused on building modern websit
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadsonawane1526&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomakepratik58&theme=github_dark"/>
 
 </div>
 
@@ -181,13 +207,13 @@ Research → Prototype → Product → Impact
 
 <div align="center">
 
-📧 [varadsonawane1526@gmail.com](mailto:varadsonawane1526@gmail.com)
+📧 [thomakepratik58@gmail.com](mailto:thomakepratik58@gmail.com)
 
-🌐 https://varadsonawane-portfolio.vercel.app
+🌐 https://pratikthomake.netlify.app
 
-💼 https://linkedin.com/in/varadsonawane
+💼 https://linkedin.com/in/pratik-thomake
 
-🐙 https://github.com/varadsonawane1526
+🐙 https://github.com/thomakepratik58
 
 </div>
 
