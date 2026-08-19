@@ -1,111 +1,232 @@
-<h1 align="left">Varad Sonawane</h1>
+<div align="center">
 
-<p align="left">
-CSE-AI Undergraduate&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Java & DSA
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Varad%20Sonawane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE-AI%20Engineer%20•%20Full Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/varadsonawane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:varadsonawane1526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- <a href="https://civicsetu.vercel.app"><img src="https://img.shields.io/badge/CivicSetu-Live-brightgreen?style=flat" alt="CivicSetu Live"/></a> -->
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Full+stack+Web+Application;Java+DSA+Enthusiast;Turning+Ideas+Into+Real+Products;Hackathon+Builder;Turning+Ideas+Into+Real+Products;Turning+Ideas+Into+Impact" />
 
-I'm a Computer Science & Engineering (AI) undergraduate at **NMIET, Talegaon**, affiliated with **Savitribai Phule Pune University (SPPU)**, graduating in **2028**. I build full-stack web applications, focus on strong CS fundamentals, and I'm actively strengthening my Data Structures & Algorithms with Java. My team's project, **CivicSetu**, was selected for the **National Round of Smart India Hackathon (SIH)**, and I've worked as a Web Development Intern for **Tap Podcast** (~50K subscribers).
+<br>
 
----
+<a href="mailto:varadsonawane1526@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🎓 Education
+<a href="https://linkedin.com/in/varadsonawane">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-| Milestone | Detail |
-|---|---|
-| Degree | B.E./B.Tech, Computer Science & Engineering – AI |
-| Institute | NMIET, Talegaon (affiliated with SPPU) |
-| Expected Graduation | 2028 |
-| FE Semester 1 SGPA | 9.59 (100/100 in Engineering Mathematics I) |
-| FE Semester 2 SGPA | 9.68 |
-| SE Semester 3 SGPA | 9.00 |
-| SE Semester 4 SGPA | 9.18 |
-| 10th (SSC) | 91.40% |
-| 12th (HSC) | 80.83% |
+<a href="https://varadsonawane-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/varadsonawane1526">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🏆 Major Achievement — Smart India Hackathon
+<br><br>
 
-**CivicSetu**, built with **Team Caffeine Coders**, was selected for the **National Round of Smart India Hackathon (SIH)**.
+<!-- <img src="https://komarev.com/ghpvc/?username=varadsonawane1526&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
 
-CivicSetu is a civic issue reporting and management platform that lets citizens report problems like garbage, potholes, and broken streetlights using **photos, live location, and voice notes**, while authorities track and resolve complaints through dedicated dashboards. I developed and deployed the complete application.
-
-🔗 **Live:** [civicsetu.vercel.app](https://civicsetu.vercel.app)
+</div>
 
 ---
 
-### 💼 Real-World Experience
+# 🚀 About Me
 
-**Web Development Intern — Tap Podcast** (~50K subscribers)
-Developed and maintained the official website using HTML, CSS, and JavaScript, with DOM manipulation and GSAP for interactive UI and scroll-based animations, along with ongoing improvements and deployment.
+```yaml
+Name: Varad Sonawane
+Location: Pune, India 🇮🇳
 
-🔗 **Website:** [tappodcast.com](https://tappodcast.com)
+Role:
+  - CSE-AI Engineering Student
+  - Full Stack Developer
+  - Problem Solving
 
-I also take on **freelance web development** projects, building websites and digital solutions for clients.
+Focus:
+  - Full Stack Development
+  - React & JavaScript
+  - AI/ML
+  - Data Structures & Algorithms
+  - AI-powered Applications
+
+Currently:
+  - Building Full Stack Projects
+  - Learning AI/ML
+  - Practicing DSA in Java
+  - Participating in Hackathons
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Internships
+  - Full Stack Opportunities
+  - Hackathons & Collaborations```
+
+---
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎙️ Tap Podcast
+
+A modern podcast website built for a podcast channel with 50K+ subscribers.
+
+**Highlights**
+
+* Responsive modern UI
+* GSAP animations
+* Interactive user experience
+* DOM manipulation
+* HTML, CSS & JavaScript
+
+**[🌐 Live Demo](https://tappodcast.com)**
+
+</td>
+
+<td width="50%">
+
+### 🏛️ CivicSetu
+
+A civic-tech platform developed for Smart India Hackathon to address real-world civic challenges.
+
+**Highlights**
+
+* Selected for the national SIH round
+* Full-stack web application
+* Civic problem-solving platform
+* Team Caffeine Coders
+* Built for real-world impact
+
+**[🌐 Live Demo](https://civicsetu.vercel.app)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 TrackFlow
+
+A productivity and habit-tracking platform designed to help users track goals, habits and daily progress.
+
+**Highlights**
+
+* Interactive habit tracking
+* Progress analytics
+* Data visualization
+* Persistent progress tracking
+* Modern responsive interface
+
+**[🌐 Live Demo](https://trackflow-vrd.vercel.app)**
+
+</td>
+
+<td width="50%">
+
+### 💻 BitBulb
+
+A web development and digital solutions agency focused on building modern websites and digital experiences for businesses.
+
+**Highlights**
+
+* Web development
+* UI/UX design
+* Business websites
+* Modern responsive interfaces
+* Digital solutions
+
+**[🌐 Visit Website](https://bitbulb.tech)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
 
-**[CivicSetu — Smart India Hackathon](https://civicsetu.vercel.app)**
-Civic issue reporting and management platform with photo, live location, and voice note-based complaint submission, plus authority dashboards for tracking and resolution. Selected for the SIH National Round; complete application developed and deployed by me on Vercel.
+# # 🧠 Tech Arsenal
 
-**[Tap Podcast — Official Website](https://tappodcast.com)**
-Interactive website for a podcast with approximately 50K subscribers, built with HTML, CSS, and JavaScript, featuring DOM manipulation, GSAP-powered interactive UI, and scroll-based animations, in real-world production use.
+# <div align="center">
 
-**[Habit Tracker](https://github.com/varadsonawane1526/habit-tracker)**
-A personal productivity and habit-tracking application.
+# ### Languages
+
+# <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql&perline=5"/>
+
+# ### Backend
+
+# <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4"/>
 
 
----
+# ### Databases
 
-### 🛠️ Tech Stack
+# <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
 
-**Programming**
-`Java` `JavaScript`
+# ### Cloud & DevOps
 
-**Web Development**
-`HTML` `CSS` `React.js` `GSAP` `DOM Manipulation` `Responsive Web Development`
+# <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&perline=5"/>
 
-**Tools**
-`Git` `GitHub` `Vercel` `REST APIs`
+# </div>
 
-> React.js and Java/DSA are areas I'm actively learning and practicing — not areas of expertise yet.
+# ---
 
----
+# 📊 GitHub Analytics
 
-### 📚 Currently Learning
+<div align="center">
 
-**Data Structures & Algorithms (Java)** — currently learning and practicing: Arrays, Strings, Searching, Sorting, Hashing, Linked Lists, Stacks, Queues, Trees, Graphs, and Dynamic Programming.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=varadsonawane1526&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**React** — currently learning: Components, JSX, Props, State, Hooks, Events, Forms, API Integration, and Routing.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadsonawane1526&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Full-Stack Development** — currently progressing toward React, backend development, APIs, databases, authentication, and deployment.
+<br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varadsonawane1526&theme=tokyonight&hide_border=true"/>
 
-### 🧠 Problem Solving
-
-Currently building consistency in Java and Data Structures & Algorithms.
+</div>
 
 ---
 
-### 📜 Certifications
+# 📈 Contribution Graph
 
-**The Complete Full-Stack Web Development Bootcamp** — Udemy
-Instructor: Dr. Angela Yu · 62 total hours 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadsonawane1526&theme=github_dark"/>
+
+</div>
 
 ---
 
-### 📫 Contact
-- **Portfolio:** [@varadsonawane-portfolio](https://varadsonawane-portfolio.vercel.app/)
-- **GitHub:** [@varadsonawane1526](https://github.com/varadsonawane1526)
-- **LinkedIn:** [varadsonawane](https://www.linkedin.com/in/varadsonawane/)
-- **Email:** [varadsonawane1526@gmail.com](mailto:varadsonawane1526@gmail.com)
+# ⚡ Current Mission
 
+```text
+Building AI products that solve real-world problems.
+
+Research → Prototype → Product → Impact
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+📧 [varadsonawane1526@gmail.com](mailto:varadsonawane1526@gmail.com)
+
+🌐 https://varadsonawane-portfolio.vercel.app
+
+💼 https://linkedin.com/in/varadsonawane
+
+🐙 https://github.com/varadsonawane1526
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Engineering Philosophy
+
+> Research discovers possibilities. Engineering delivers impact.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:2563EB,100:06B6D4"/>
