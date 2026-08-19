@@ -61,18 +61,6 @@ Open To:
 
 ---
 
-# 🏆 Achievement Matrix
-
-<div align="center">
-
-| 📄 Research           | 🥈 Hackathon         | 👨‍💻 Leadership             | 🚀 Deployment            |
-| --------------------- | -------------------- | ---------------------------- | ------------------------ |
-| IEEE Published Author | AgriThon 2026 Winner | Technical Lead @ MahaSangram | 5+ Deployed Applications |
-
-</div>
-
----
-
 # 🌟 Featured Projects
 
 <table>
@@ -136,50 +124,6 @@ Gesture-controlled drawing system.
 </td>
 </tr>
 </table>
-
----
-
-# 🧠 Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql&perline=5"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&perline=4"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow&perline=1"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&perline=5"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varadsonawane1526&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadsonawane1526&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varadsonawane1526&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
